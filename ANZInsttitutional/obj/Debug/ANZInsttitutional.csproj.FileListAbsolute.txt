@@ -1,0 +1,7 @@
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\bin\Debug\ANZInsttitutional.exe.config
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\bin\Debug\ANZInsttitutional.exe
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\bin\Debug\ANZInsttitutional.pdb
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\obj\Debug\ANZInsttitutional.csprojAssemblyReference.cache
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\obj\Debug\ANZInsttitutional.csproj.CoreCompileInputs.cache
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\obj\Debug\ANZInsttitutional.exe
+C:\Users\nagrawal\source\repos\ANZInsttitutional\ANZInsttitutional\obj\Debug\ANZInsttitutional.pdb
